@@ -15,9 +15,9 @@ The breakdown for each role section is shown below:
 
 ### GEXP Roles
 <details>
-<summary>[ 👾 ] Rookie (7,500 - 200,000) GEXP</summary>
+<summary>[ 👾 ] Rookie (75,000 - 200,000) GEXP</summary>
 
-  - [ 👾 ] Rookie [I] 7,500
+  - [ 👾 ] Rookie [I] 75,000
   - [ 👾 ] Rookie [II] 100,000
   - [ 👾 ] Rookie [III] 125,000
   - [ 👾 ] Rookie [IV] 150,000
